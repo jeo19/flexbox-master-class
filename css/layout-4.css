@@ -38,3 +38,10 @@ a{
     border: 1px solid rgba(0,0,0,0.12);
     background: #fff;
 }
+.tabgroup4{
+    display: flex;
+    justify-content:space-around;
+    flex: 0 0 60px;
+    border: 1px solid rgba(0,0,0,0.12);
+    background: #fff;
+}
